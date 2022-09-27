@@ -1,0 +1,9 @@
+{
+  "name": "School Days - P1",
+  "description": "Have nice days back at school with this theme from Persona 1",
+  "author": "Five#4321",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
